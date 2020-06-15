@@ -1,0 +1,4 @@
+In This Project The Database File On The Database Folder.
+Run Project
+The ecom folder setup on Xampp<-htdoc 
+and Run In Localhost. 
